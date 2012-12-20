@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Proyecto Android</string>
+<string name="menu_settings">Settings</string>
+<string name="title_activity_main">CapturaText</string>
+
+<string name="titulo">Capturar Datos</string>
+<string name="hnom">Ingrese su nombre</string>
+<string name="hape">Ingrese su apellido</string>
+
+<string name="btn">Aceptar</string>
+
+<string name="tmostrar">no hay datos</string>
+</resources>
